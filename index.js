@@ -1,3 +1,3 @@
-import { promisifyRequest, IdbStore } from './lib/idb'
+import IdbStore from './lib/idb'
 import idbSession from './lib/stroage'
-export { promisifyRequest, IdbStore, idbSession as default }
+export { IdbStore, idbSession, idbSession as default }
