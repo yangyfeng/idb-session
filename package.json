@@ -1,6 +1,6 @@
 {
   "name": "idb-session",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "A super-simple-small keyval store built on top of IndexedDB",
   "main": "./index.js",
   "repository": {
