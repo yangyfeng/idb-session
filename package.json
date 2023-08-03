@@ -1,17 +1,17 @@
 {
   "name": "idb-session",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A super-simple-small keyval store built on top of IndexedDB",
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/yangyfeng/idb-session.git"
   },
   "keywords": [
     "indexedb"
   ],
   "bugs": {
-    "url": "https://github.com/"
+    "url": "https://github.com/yangyfeng/idb-session.git"
   },
-  "homepage": "https://github.com/"
+  "homepage": "https://github.com/yangyfeng/idb-session.git"
 }
